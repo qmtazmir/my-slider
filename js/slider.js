@@ -35,7 +35,7 @@ setInterval(() => {
   imgElement.setAttribute("src", imgUrl);
 
   imgIndex++;
-}, 1000);
+}, 1500);
 
 // [images/p-12.jpg,
 // images/p-13.jpg,
